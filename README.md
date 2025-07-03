@@ -17,6 +17,7 @@ DESENVOLVIMENTO DO WEBSITE – FLORICULTURA ROSAPINK
 
 Para garantir um desenvolvimento eficiente, foi traçada uma estratégia de curto prazo com foco na compreensão gradual das etapas. Inicialmente, criamos a identidade visual com base nas cores escolhidas (tons de rosa), e em seguida, passamos para a estrutura visual da landing page.
 
+
 Etapas do Desenvolvimento Visual:
 
 •Criação do nome Floricultura RosaPink
@@ -26,9 +27,11 @@ Etapas do Desenvolvimento Visual:
 •Seleção e edição das imagens em formatos .jpg e .png para composição do site
 
 
+
 ETAPA DE CODIFICAÇÃO DO PROJETO
 
 Com a parte visual definida, demos início à estruturação do código no VSCode, desenvolvendo a página com HTML e CSS.
+
 
 Principais etapas:
 
@@ -42,7 +45,9 @@ Principais etapas:
 •Inclusão das imagens de apoio ao design e ao conteúdo
 
 
+
 DIFICULDADES E FACILIDADES
+
 
 Dificuldades encontradas:
 
@@ -51,6 +56,7 @@ Dificuldades encontradas:
 •Ajustes no layout das imagens em diferentes tamanhos de tela
 
 •Conflito entre dois arquivos CSS externos aplicados em uma mesma página
+
 
 
 Facilidades:
@@ -62,13 +68,14 @@ Facilidades:
 •Inserção de imagens e links de navegação
 
 
+
 CONFLITOS E SOLUÇÕES
 
 Durante o processo, um dos principais desafios foi utilizar dois arquivos CSS diferentes no mesmo HTML.
 
 Relato:Ao aplicar o arquivo style.css, todos os estilos funcionaram normalmente. No entanto, ao adicionar o segundo arquivo contato.css, os estilos do primeiro deixaram de funcionar corretamente.
 
-Solução:Reorganizamos o HTML e utilizamos a tag <section id="contato" class="contato">, o que permitiu aplicar os estilos de forma isolada e evitar sobreposição entre os arquivos CSS. Após a alteração, o site voltou a funcionar conforme o esperado.
+Solução: Reorganizamos o HTML e utilizamos a tag <section id="contato"class="contato">, o que permitiu aplicar os estilos de forma isolada e evitar sobreposição entre os arquivos CSS. Após a alteração, o site voltou a funcionar conforme o esperado.
 
 
 
