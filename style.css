@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background-color: rgb(255, 255, 255);
+  color: #110000;
+}
+
+header {
+  display: center;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 5px;
+  background: #d63384;
+  border-bottom: 1px solid #ddd;
+}
+
+nav a {
+  margin: 0 20px;
+  text-decoration: none;
+  color: #2f2e2e;
+}
+
+.btn {
+  padding: 5px 10px;
+  background: #d63384;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #b0266a;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 60px 40px;
+  background: mistyrose;
+}
+
+.intro .text {
+  max-width: 800px;
+}
+
+.intro img {
+  width: 150px;
+  border-radius: 12px;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  padding: 60px 40px;
+  gap: 30px;
+}
+
+.about img {
+  width: 200px;
+  border-radius: 300px;
+}
+
+.products {
+  padding: 30px 10px;
+  background: #dad4d4;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 12px;
+  width: 200px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.card h3 {
+  margin: 10px 0 8px;
+}
+
+.card span {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #d63384;
+}
+
+.comments {
+  padding: 60px 40px;
+  text-align: center;
+}
+
+.reviews {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.review {
+  background: #dad5d5;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+footer {
+  background: #d63384;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
