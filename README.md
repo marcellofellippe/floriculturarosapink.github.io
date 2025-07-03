@@ -3,7 +3,7 @@ Desenvolvimento Web Floricultura RosaPink Programa Aceleradora Inclusiva
 
 Participantes: 
 Marcelo Felipe Andrade de Borba, 
-Anne Alves da Silva Ribeiro,
+Anne Alves da Silva Ribeiro.
 Tutor: Pedro
 
 
@@ -28,7 +28,9 @@ ETAPA DE CODIFICAÇÃO DO PROJETO
 Com a parte visual definida, demos início à estruturação do código no VSCode, desenvolvendo a página com HTML e CSS.
 
 Principais etapas:
+
 •Estrutura das páginas: Início, Sobre Nós, Populares e Contato
+
 •Codificação da estrutura em HTML semântico
 •Criação de CSS externo principal (style.css).
 
@@ -39,14 +41,20 @@ Principais etapas:
 DIFICULDADES E FACILIDADES
 
 Dificuldades encontradas:
+
 •Alinhamento dos elementos e objetos na página
+
 •Ajustes no layout das imagens em diferentes tamanhos de tela
+
 •Conflito entre dois arquivos CSS externos aplicados em uma mesma página
 
 
 Facilidades:
+
 •Criação da estrutura básica com HTML
+
 •Aplicação de estilos simples com CSS
+
 •Inserção de imagens e links de navegação
 
 
