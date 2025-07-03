@@ -1,5 +1,5 @@
 Relatório do Projeto 
-Desenvolvimento Web Floricultura RosaPink Programa Aceleradora Inclusiva
+Desenvolvimento Web Floricultura RosaPink Programa Aceleradora Inclusiva
 
 Participantes: 
 Marcelo Felipe Andrade de Borba, 
