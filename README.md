@@ -1,7 +1,11 @@
-Relatório do Projeto – Desenvolvimento Web Floricultura RosaPinkPrograma Aceleradora Inclusiva
+Relatório do Projeto 
+Desenvolvimento Web Floricultura RosaPink Programa Aceleradora Inclusiva
 
-Participantes: Marcelo Felipe Andrade de Borba, Anne Alves da Silva Ribeiro
+Participantes: 
+Marcelo Felipe Andrade de Borba, 
+Anne Alves da Silva Ribeiro,
 Tutor: Pedro
+
 
 INTRODUÇÃO
 
@@ -26,7 +30,8 @@ Com a parte visual definida, demos início à estruturação do código no VSCod
 Principais etapas:
 •Estrutura das páginas: Início, Sobre Nós, Populares e Contato
 •Codificação da estrutura em HTML semântico
-•Criação de CSS externo principal (style.css)
+•Criação de CSS externo principal (style.css).
+
 •Desenvolvimento de um segundo arquivo de CSS específico para o contato (contato.css)
 •Inclusão das imagens de apoio ao design e ao conteúdo
 
