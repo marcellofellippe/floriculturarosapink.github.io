@@ -18,9 +18,14 @@ DESENVOLVIMENTO DO WEBSITE – FLORICULTURA ROSAPINK
 Para garantir um desenvolvimento eficiente, foi traçada uma estratégia de curto prazo com foco na compreensão gradual das etapas. Inicialmente, criamos a identidade visual com base nas cores escolhidas (tons de rosa), e em seguida, passamos para a estrutura visual da landing page.
 
 Etapas do Desenvolvimento Visual:
+
 •Criação do nome Floricultura RosaPink
+
 •Elaboração do logotipo e identidade visual (utilizando o programa CorelDRAW)
-•Seleção e edição das imagens em formatos .jpg e .png para composição do site
+
+•Seleção e edição das imagens em formatos 
+
+.jpg e .png para composição do site
 
 
 ETAPA DE CODIFICAÇÃO DO PROJETO
