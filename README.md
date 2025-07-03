@@ -23,9 +23,7 @@ Etapas do Desenvolvimento Visual:
 
 •Elaboração do logotipo e identidade visual (utilizando o programa CorelDRAW)
 
-•Seleção e edição das imagens em formatos 
-
-.jpg e .png para composição do site
+•Seleção e edição das imagens em formatos .jpg e .png para composição do site
 
 
 ETAPA DE CODIFICAÇÃO DO PROJETO
@@ -40,6 +38,7 @@ Principais etapas:
 •Criação de CSS externo principal (style.css).
 
 •Desenvolvimento de um segundo arquivo de CSS específico para o contato (contato.css)
+
 •Inclusão das imagens de apoio ao design e ao conteúdo
 
 
