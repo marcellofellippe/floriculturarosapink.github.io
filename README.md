@@ -1,17 +1,44 @@
-Relatório do Projeto 
-Desenvolvimento Web Floricultura RosaPink Programa Aceleradora Inclusiva
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcellofellippe/floriculturarosapink.github.io/main/imagens/logo.png" alt="Logotipo Floricultura RosaPink" width="220">
+</p>
 
-Participantes: 
-Marcelo Felipe Andrade de Borba, 
-Anne Alves da Silva Ribeiro.
-Tutor: Pedro
+<h1 align="center">🌸 Floricultura RosaPink</h1>
 
+<p align="center">
+  Projeto educacional de desenvolvimento web — Aceleradora Inclusiva 2025
+</p>
 
-INTRODUÇÃO
+---
 
-O presente projeto tem como objetivo o desenvolvimento de um website utilizando as linguagens HTML e CSS no programa Visual Studio Code (VSCode). A proposta partiu da criação do logotipo e da identidade visual de uma empresa fictícia, nomeada Floricultura RosaPink.
-Seguindo as orientações do curso, buscamos alinhar estrutura e estética através de códigos, tags semânticas e boas práticas de organização. O projeto foi pensado para aplicar, de forma prática, os conhecimentos adquiridos ao longo do curso de Desenvolvimento Web e Programação da Aceleradora Inclusiva, respeitando uma composição harmônica entre a estrutura e o visual da página.
+**Floricultura RosaPink** é um site institucional estático desenvolvido com **HTML5 e CSS3**, criado como projeto educacional durante o curso de **Desenvolvimento Web e Programação da Aceleradora Inclusiva – 2025**.
 
+O projeto simula o site de uma floricultura fictícia, com foco em **identidade visual**, **organização do conteúdo**, **estética** e **experiência do usuário**, aplicando conceitos fundamentais de desenvolvimento front-end.
+
+---
+
+## 📌 Visão Geral do Projeto
+
+O site apresenta:
+- Página inicial com apresentação visual
+- Seção institucional “Sobre Nós”
+- Destaque de produtos florais
+- Formulário de contato estilizado
+- Navegação simples e intuitiva
+
+A identidade visual utiliza **tons de rosa**, tipografia leve e imagens florais, transmitindo delicadeza, cuidado e conexão emocional com o público.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5** — Estrutura das páginas  
+- **CSS3** — Estilização e layout  
+- **Visual Studio Code** — Ambiente de desenvolvimento  
+- **GitHub Pages** — Publicação do site  
+
+---
+
+## 🧩 Estrutura do Projeto
 
 DESENVOLVIMENTO DO WEBSITE – FLORICULTURA ROSAPINK
 
