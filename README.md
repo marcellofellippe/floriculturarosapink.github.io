@@ -117,14 +117,15 @@ https://marcellofellippe.github.io/floriculturarosapink.github.io
 ## 👥 Autores
 
 **Marcelo Felipe Andrade de Borba**  
+
 **Anne Ribeiro**  
-Autores e colaboradores no desenvolvimento do projeto. 
+
 
 ---
 
-## 🎓 Professora 
+## 🎓 Professor
 
-**Pedro Silva Peuuu*
+*Pedro Silva Peuuu*
 
 ## 💻 Execução Local
 
