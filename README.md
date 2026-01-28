@@ -124,7 +124,7 @@ Autores e colaboradores no desenvolvimento do projeto.
 
 ## 🎓 Professora 
 
-**Amanda Oliveira*
+**Pedro Silva Peuuu*
 
 ## 💻 Execução Local
 
