@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcellofellippe/floriculturarosapink.github.io/main/imagens/logo.png" alt="Logotipo Floricultura RosaPink" width="220">
+  <img src="https://raw.githubusercontent.com/marcellofellippe/floriculturarosapink.github.io/main/1000103630.png" alt="Logotipo Floricultura RosaPink" width="220">
 </p>
 
 <h1 align="center">🌸 Floricultura RosaPink</h1>
