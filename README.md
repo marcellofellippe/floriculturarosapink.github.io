@@ -114,11 +114,6 @@ https://marcellofellippe.github.io/floriculturarosapink.github.io
 
 ---
 
-## 💻 Execução Local
-
-```bash
-git clone https://github.com/marcellofellippe/floriculturarosapink.github.io.git
-
 ## 👥 Autores
 
 **Marcelo Felipe Andrade de Borba**  
@@ -131,5 +126,13 @@ Autora e colaboradora no desenvolvimento do projeto
 
 ## 🎓 Tutoria
 
-**Amanda Oliveira**
+**Amanda Oliveira*
+
+## 💻 Execução Local
+
+```bash
+git clone https://github.com/marcellofellippe/floriculturarosapink.github.io.git
+
+
+*
 
