@@ -102,7 +102,22 @@ Durante o processo, um dos principais desafios foi utilizar dois arquivos CSS di
 
 Relato:Ao aplicar o arquivo style.css, todos os estilos funcionaram normalmente. No entanto, ao adicionar o segundo arquivo contato.css, os estilos do primeiro deixaram de funcionar corretamente.
 
+
 Solução: Reorganizamos o HTML e utilizamos a tag <section id="contato"class="contato">, o que permitiu aplicar os estilos de forma isolada e evitar sobreposição entre os arquivos CSS. Após a alteração, o site voltou a funcionar conforme o esperado.
+
+---
+
+## 🌐 Acesso ao Projeto
+
+🔗 **Site publicado:**  
+https://marcellofellippe.github.io/floriculturarosapink.github.io
+
+---
+
+## 💻 Execução Local
+
+```bash
+git clone https://github.com/marcellofellippe/floriculturarosapink.github.io.git
 
 
 
